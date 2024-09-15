@@ -44,9 +44,6 @@ neoForge {
         client {
             client()
             systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
-            dependencies {
-                //    runtime 'com.google.inject:guice:7.0.0'
-            }
         }
 
         server {
@@ -135,6 +132,11 @@ dependencies {
     implementation 'com.google.inject:guice:7.0.0'
     jarJar(implementation("com.google.inject:guice:7.0.0"))
     additionalRuntimeClasspath 'com.google.inject:guice:7.0.0'
+
+    // https://mvnrepository.com/artifact/org.commonmark/commonmark
+    implementation 'org.jdom:jdom2:2.0.6.1'
+    jarJar(implementation('org.jdom:jdom2:2.0.6.1'))
+    additionalRuntimeClasspath 'org.jdom:jdom2:2.0.6.1'
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.

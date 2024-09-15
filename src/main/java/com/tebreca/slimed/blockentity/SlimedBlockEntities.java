@@ -1,8 +1,8 @@
-package com.tebreca.Slimed.blockentity;
+package com.tebreca.slimed.blockentity;
 
-import com.tebreca.Slimed.SlimedMod;
-import com.tebreca.Slimed.block.SlimedBlocks;
-import com.tebreca.Slimed.blockentity.obj.GlobeBlockEntity;
+import com.tebreca.slimed.SlimedMod;
+import com.tebreca.slimed.block.SlimedBlocks;
+import com.tebreca.slimed.blockentity.obj.GlobeBlockEntity;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.neoforged.neoforge.registries.DeferredHolder;

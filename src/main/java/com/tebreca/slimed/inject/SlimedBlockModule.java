@@ -1,4 +1,4 @@
-package com.tebreca.Slimed.inject;
+package com.tebreca.slimed.inject;
 
 import com.google.inject.Binder;
 import com.google.inject.Module;

@@ -1,8 +1,6 @@
-package com.tebreca.Slimed.entity;
+package com.tebreca.slimed.entity;
 
-import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.entity.EntityType;
-import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.RegisterEvent;
 
 public class SlimedEntities {

@@ -1,0 +1,28 @@
+<Crystalball manualPaging="">
+    <title>Crystal Ball</title>
+    <paragraph>
+        The Slimed Crystal ball will be your guide through the goo-filled landscapes of Slimed.
+        Whenever you want to know something about any Slimed item, just <b>right-click</b> this block with the item in your
+        main hand.
+    </paragraph>
+    <paragraph>
+        Sometimes the knowledge contained within this crystal is too big to be put on a single page. <b>Right-click</b> the
+        ball with an empty hand to go to the next page.
+    </paragraph>
+    <pagebreak/>
+    <paragraph>
+        If you are new to Slimed, and would like to follow a tutorial on getting started, <b>right click</b> this block
+        with a slimeball. That way you can open the <i>getting started</i> guide.
+    </paragraph>
+    <block lore="">
+        This ball... It possesses knowledge about all goop never scooped, it's a wonder! ~ Unknown
+    </block>
+    <paragraph lore="">
+        Often there are quotes and other mysterious bunch here for you to figure out, you can skip past them, or disable
+        them in the mod configuration files by turning on<i>party-pooper mode.</i>
+    </paragraph>
+    <pagebreak/>
+    <paragraph>
+        This crystall ball has some more nice features
+    </paragraph>
+</Crystalball>

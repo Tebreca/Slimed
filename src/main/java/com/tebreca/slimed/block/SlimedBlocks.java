@@ -1,17 +1,17 @@
-package com.tebreca.Slimed.block;
+package com.tebreca.slimed.block;
 
 
 import com.google.inject.Guice;
 import com.google.inject.Injector;
-import com.tebreca.Slimed.block.obj.GlobeBlock;
-import com.tebreca.Slimed.inject.SlimedBlockModule;
-import com.tebreca.Slimed.item.SlimedItems;
+import com.tebreca.slimed.block.obj.GlobeBlock;
+import com.tebreca.slimed.inject.SlimedBlockModule;
+import com.tebreca.slimed.item.SlimedItems;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.neoforged.neoforge.registries.DeferredBlock;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
-import static com.tebreca.Slimed.SlimedMod.MODID;
+import static com.tebreca.slimed.SlimedMod.MODID;
 
 public class SlimedBlocks {
 
